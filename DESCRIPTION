@@ -1,7 +1,7 @@
 Package: geneplast.data.string.v91
 Type: Package
 Title: Input data for the geneplast package.
-Version: 0.99.0
+Version: 0.99.1
 Author: Sheyla Trefflich, Rodrigo Damolin, Mauro Castro.
 Maintainer: Sheyla Trefflich <sheylatrefflich@gmail.com>, Mauro Castro <mauro.a.castro@gmail.com>
 Description: The package geneplast.data.string.v91 contains input data used in the analysis pipelines available in the geneplast package.
