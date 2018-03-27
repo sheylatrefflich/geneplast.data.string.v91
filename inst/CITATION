@@ -1,0 +1,7 @@
+citEntry(entry = "Manual",
+  author = "Sheyla Trefflich, Rodrigo JS Dalmolin and Mauro AA Castro",
+  title = "geneplast.data.string.v91: evolutionary rooting and plasticity inference.",
+  year = "2018",
+  note = "R package version 1.0.0",
+  textVersion = "Trefflich S, Dalmolin RJS, Castro MAA. geneplast.data.string.v91: input data for the geneplast package. R package, 2018."
+)
